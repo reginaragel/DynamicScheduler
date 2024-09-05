@@ -1,0 +1,40 @@
+.admin-title {
+    margin-top: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fe5b3d;
+}
+
+.tablebox {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    margin-left: 600px;
+}
+
+.top {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 1rem;
+    text-align: left;
+}
+
+.thead {
+    background-color: #f2f2f2;
+}
+
+.ths {
+    padding: 12px 15px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+    background-color: #3c27a5;
+    color: white;
+}
+
+th {
+    text-align: left;
+    background-color: #3c27a5;
+    color: white;
+}
